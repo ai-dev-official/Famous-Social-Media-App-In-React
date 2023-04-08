@@ -1,6 +1,6 @@
 import React from 'react';
 import { BsThreeDotsVertical, BsSearch } from "react-icons/bs";
-import logo from '../../assets/logo.png';
+import logo from '../../assets/famous.png';
 import './header.css';
 
 function Header() {
